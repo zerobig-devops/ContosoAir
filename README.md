@@ -1,5 +1,6 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
+[![Build Status](https://zerobig.visualstudio.com/zerobigdevops/_apis/build/status/zerobig-devops.ContosoAir?branchName=master)](https://zerobig.visualstudio.com/zerobigdevops/_build/latest?definitionId=1&branchName=master)
 
 # Microsoft.Github CI Demo
 
